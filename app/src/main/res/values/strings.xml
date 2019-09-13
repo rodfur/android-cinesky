@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cine Sky</string>
+
+    <!-- Movies Activity -->
+    <string name="movies_title">Cine Sky</string>
+    <string name="movies_subtitle">Uma seleção de filmes imperdíveis</string>
+    <string name="movies_error_401">Não Autorizado</string>
+    <string name="movies_error_400_generic">Solicitação Inválida</string>
+    <string name="movies_error_500_generic">Erro de Servidor Interno</string>
+
+    <!-- Movie Details Activity -->
+    <string name="movie_overview">Sinopse</string>
+    <string name="movie_duration">Duração</string>
+    <string name="movie_release_year">Ano de Lançamento</string>
+</resources>
